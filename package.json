@@ -1,0 +1,29 @@
+{
+  "name": "sabina",
+  "version": "1.0.0",
+  "description": "opis",
+  "main": "index.js",
+  "scripts": {
+    "test": "test command"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-install": "^1.1.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-sass": "^3.1.0",
+    "webpack": "^3.0.0"
+  },
+  "dependencies": {
+    "gulp-sourcemaps": "^2.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luposodrom/Moments_photography.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Luposodrom/Moments_photography/issues"
+  },
+  "homepage": "https://github.com/Luposodrom/Moments_photography#readme"
+}
